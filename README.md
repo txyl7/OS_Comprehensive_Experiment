@@ -1,6 +1,7 @@
 # OS_Comprehensive_Experiment
 Experimental demonstration software for a runnable operating system based on Python
-Group members：陶莎、刘珂宏、邹翔羽
+
+Group members：陶莎（222023335032030）、刘珂宏（222023335032026）、邹翔羽（222023319210089）
 
 ## 📌 Features
 
